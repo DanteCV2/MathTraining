@@ -17,7 +17,9 @@
   <li>Place the correct result using the cropped numbers.</li>
   <li>Scan the result with the camera.</li>
 </ul>
-<img src="/images/Mockup_1.mov"/>
+<p align="center">
+<img src="/images/Mockup.gif"/>
+</p>
 <br/>
 <h2>How it works?</h2>
 <p></p>
