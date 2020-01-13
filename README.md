@@ -22,7 +22,7 @@
 </p>
 <br/>
 <h2>How it works?</h2>
-<p></p>
+<p>Math Training is an application built under Arkit, in this way the app can identify the images, then calculate the correct result and show a green tick to the user in case of success.</p>
 <br/>
 <h2>Skills used</h2> 
 <ul>
