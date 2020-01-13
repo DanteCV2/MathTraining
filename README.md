@@ -1,6 +1,6 @@
 # MathTraining
 <p align="center">
-  <img src="/images/maths.jpg" height="350" width="650"/>
+  <img src="/images/maths.jpg" height="400" width="650"/>
 </p>
 <br/>
 <h2>Introduction</h2> 
