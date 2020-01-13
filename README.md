@@ -17,7 +17,7 @@
   <li>Place the correct result using the cropped numbers.</li>
   <li>Scan the result with the camera.</li>
 </ul>
-![](images/Math1.gif)
+![](Math1.gif)
 <br/>
 <h2>How it works?</h2>
 <p></p>
