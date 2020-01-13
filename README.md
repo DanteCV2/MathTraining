@@ -9,19 +9,22 @@
 <h2>How to use it?</h2> 
 <p>To start using The Price is Right please follow the steps below:</p>
 <ul>
-  <li>Open the app</li>
-  <li></li>
-  <li>Enjoy the magic of machine learning</li>
+  <li>Download the "numbers.png" file.</li>
+  <li>Print "numbers.png"</li>
+  <li>Cut out each of the numbers.</li>
+  <li>Open the app.</li>
+  <li>Solve the operation shown on the screen"</li>
+  <li>Place the correct result using the cropped numbers.</li>
+  <li>Scan the result with the camera.</li>
 </ul>
 <br/>
 <h2>How it works?</h2>
-<p>This application has a data model using JSON data trained in machine learning tested under different types of models such as linear regression, boosted trees, random forest model, etc. After several tests performed on each one of the models, the most successful one was defined for use in the application. When modifying each of the house parameters, the price will be adjusted so that the estimated price can be given to the user according to their selection.</p>
+<p></p>
 <br/>
 <h2>Skills used</h2> 
 <ul>
   <li>Storyboards</li>
-  <li>MVC Pattern</li>
+  <li>AR Kit</li>
+  <li>Scene Kit</li>
   <li>JSON Files</li>
-  <li>Machine Mearning - ML Kit</li>
-  <li> Localizable Strings</li>
 </ul>
