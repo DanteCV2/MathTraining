@@ -93,9 +93,9 @@ class ViewController: UIViewController, ARSCNViewDelegate {
                 
             case .substract:
                 let x = Int.random(in:  1...49)
-                let y = Int.random(in: 1...49)
-                question = "\(x*y) - \(y) =?"
-                answer = x*y-y
+                let y = Int.random(in: 1...48)
+                question = "\(x) - \(y) =?"
+                answer = x-y
                 
             case .miltiply:
                 let x = Int.random(in: 1...10)
